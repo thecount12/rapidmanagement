@@ -15,7 +15,9 @@ We needed our own internal scrum, agile, kanban whatever. As much as I love Jira
 ### First Steps
 
 python manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py makemigrations
 
 hopefully no bugs other then getboostrap templates
