@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'basicapp',
     'signup',
     'blog',
+    'taskapp',
 ]
 
 MIDDLEWARE = [
